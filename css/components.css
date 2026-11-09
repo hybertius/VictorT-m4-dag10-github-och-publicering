@@ -25,7 +25,8 @@ footer a {
   color: #ffffff;
 }
 
-/* Kort */
+/* Kort
+Chokladboll placement är viktig för layouten */
 article {
   display: flex;
   flex-direction: column;
